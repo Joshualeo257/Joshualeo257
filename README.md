@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @Joshualeo257
   
-- 👀 I’m interested in Reading
+- 👀 My hobby is Reading
   
-- 🌱 I’m currently learning Machine Learning
-  
-- 📫 How to reach me leojoshua216@gmail.com
+- 🌱 I’m currently learning Artificial Intelligence Machine Learning
 
+- 🖥️ I experienced in the programming languages : Python, Java, C
+
+- 💕 Looking to collaborate on Web development and UI design projects
+
+- 📫 How to reach me: leojoshua216@gmail.com
 
 
 <!---
